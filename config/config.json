@@ -1,0 +1,11 @@
+{
+    "polygon_rpc_endpoint": "",
+    "private_key": "",
+    "contract_address1": "0x16a4d696A9AA85704991ec9e674a0A44D62fD7C0",
+    "contract_address2": "0x4D947Ffe459A0B0fa23402D40Ea368486f8A0e8f",
+    "droidabi_url": "https://raw.githubusercontent.com/r0llie/bots-aio/main/droidabi.json",
+    "droidmissionabi_url": "https://raw.githubusercontent.com/r0llie/bots-aio/main/droidmissionabi.json",
+    "missiondata_url": "https://raw.githubusercontent.com/r0llie/bots-aio/main/missionData.csv",
+    "maxfeeaccepted": "0.1",
+    "bot_ids": []
+}
